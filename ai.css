@@ -1,0 +1,59 @@
+#que{
+    border: 1px solid ;
+    margin: 20px auto;
+    padding: 30px;
+    text-align: center;
+    width: 60%;
+    border-radius: 8px;
+
+}
+
+#que p{
+    font-size: 30px;
+}
+/* #mainPage{
+    text-align: center;
+} */
+
+#title{
+    text-align: center;
+
+}
+
+#note p {
+    color: red;
+
+}
+button:active{
+    background:olive;
+    width: 50px;
+}
+button {
+    margin: 20px;
+}
+
+button:focus{
+    background:olive;
+    margin: 30px;
+}
+
+#submit {
+    margin: 0 auto ;
+    text-align: center;
+}
+
+
+#final{
+    margin: 20px auto;
+    padding: 40px;
+    border: 1px solid;
+    width: 80%;
+}
+
+#final h2{
+    font-size: 45px;
+}
+#final li{
+    font-size: 30px;
+    padding: 10px;
+}
